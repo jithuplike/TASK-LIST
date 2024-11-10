@@ -1,0 +1,24 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: gainsboro;
+    color:green;
+ }
+
+ h1{
+    text-align: center;
+ }
+ .container{
+    top: 5rem;
+  position: absolute;
+  left: 50%;    
+     
+    
+ }
+
+ .delete{
+    position: relative;
+    top: 10rem;
+    left: 45%;
+ }
